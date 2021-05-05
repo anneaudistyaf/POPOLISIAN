@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: e7c357c9899b97f4885a20220a9861b4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box_2
+    100004: Box_3
+    100006: Camera.001
+    100008: CameraE
+    100010: Cube.039
+    100012: Cube.040
+    100014: Cube.041
+    100016: Cube.042
+    100018: Cube.043
+    100020: Cube.044
+    100022: D-Box.012
+    100024: Empty.022
+    100026: Empty.023
+    100028: Empty.031
+    100030: Filter 2D
+    100032: Hemi
+    100034: Hemi.003
+    100036: Hemi.004
+    100038: Hemi.005
+    100040: Hemi.009
+    100042: Hit Cube
+    100044: Hit Cube2
+    100046: Hit Cube3
+    100048: Hit Cube4
+    100050: Hit Cube5
+    100052: Light Control Empty
+    100054: LM.003
+    100056: Plane.028
+    100058: PlayerBox
+    100060: Point.002
+    100062: softcube 2
+    100064: softcube.001
+    100066: Sphere.000
+    100068: Sphere.001
+    100070: Sphere.002
+    100072: Sphere.003
+    100074: Sphere.004
+    100076: Sphere.005
+    100078: Sphere.012
+    100080: Sphere.013
+    100082: Text.001
+    100084: Tile_1
+    100086: Tile_2
+    100088: Tile_3
+    100090: Time Empty
+    400000: //RootNode
+    400002: Box_2
+    400004: Box_3
+    400006: Camera.001
+    400008: CameraE
+    400010: Cube.039
+    400012: Cube.040
+    400014: Cube.041
+    400016: Cube.042
+    400018: Cube.043
+    400020: Cube.044
+    400022: D-Box.012
+    400024: Empty.022
+    400026: Empty.023
+    400028: Empty.031
+    400030: Filter 2D
+    400032: Hemi
+    400034: Hemi.003
+    400036: Hemi.004
+    400038: Hemi.005
+    400040: Hemi.009
+    400042: Hit Cube
+    400044: Hit Cube2
+    400046: Hit Cube3
+    400048: Hit Cube4
+    400050: Hit Cube5
+    400052: Light Control Empty
+    400054: LM.003
+    400056: Plane.028
+    400058: PlayerBox
+    400060: Point.002
+    400062: softcube 2
+    400064: softcube.001
+    400066: Sphere.000
+    400068: Sphere.001
+    400070: Sphere.002
+    400072: Sphere.003
+    400074: Sphere.004
+    400076: Sphere.005
+    400078: Sphere.012
+    400080: Sphere.013
+    400082: Text.001
+    400084: Tile_1
+    400086: Tile_2
+    400088: Tile_3
+    400090: Time Empty
+    2000000: Camera.001
+    2100000: ground
+    2100002: hotel_glas
+    2100004: Material.036
+    2100006: Material.035
+    2100008: Material.004
+    2100010: Material.028
+    2100012: No Name
+    2100014: Gras
+    2100016: Material.034
+    2100018: hit
+    2100020: Material.027
+    2100022: Material.024
+    2100024: Material.019
+    2100026: Material.008
+    2100028: Material.007
+    2100030: Wood
+    2300000: Box_2
+    2300002: Box_3
+    2300004: Cube.039
+    2300006: Cube.040
+    2300008: Cube.041
+    2300010: Cube.042
+    2300012: Cube.043
+    2300014: Cube.044
+    2300016: Hit Cube
+    2300018: Hit Cube2
+    2300020: Hit Cube3
+    2300022: Hit Cube4
+    2300024: Hit Cube5
+    2300026: LM.003
+    2300028: Plane.028
+    2300030: PlayerBox
+    2300032: softcube 2
+    2300034: softcube.001
+    2300036: Sphere.000
+    2300038: Sphere.001
+    2300040: Sphere.002
+    2300042: Sphere.003
+    2300044: Sphere.004
+    2300046: Sphere.005
+    2300048: Sphere.012
+    2300050: Sphere.013
+    2300052: Text.001
+    2300054: Tile_1
+    2300056: Tile_2
+    2300058: Tile_3
+    3300000: Box_2
+    3300002: Box_3
+    3300004: Cube.039
+    3300006: Cube.040
+    3300008: Cube.041
+    3300010: Cube.042
+    3300012: Cube.043
+    3300014: Cube.044
+    3300016: Hit Cube
+    3300018: Hit Cube2
+    3300020: Hit Cube3
+    3300022: Hit Cube4
+    3300024: Hit Cube5
+    3300026: LM.003
+    3300028: Plane.028
+    3300030: PlayerBox
+    3300032: softcube 2
+    3300034: softcube.001
+    3300036: Sphere.000
+    3300038: Sphere.001
+    3300040: Sphere.002
+    3300042: Sphere.003
+    3300044: Sphere.004
+    3300046: Sphere.005
+    3300048: Sphere.012
+    3300050: Sphere.013
+    3300052: Text.001
+    3300054: Tile_1
+    3300056: Tile_2
+    3300058: Tile_3
+    4300000: Cube.044
+    4300002: Cube.039
+    4300004: Cube.041
+    4300006: Cube.042
+    4300008: Sphere.013
+    4300010: Sphere.012
+    4300012: PlayerBox
+    4300014: Text.001
+    4300016: Sphere.005
+    4300018: LM.003
+    4300020: Plane.028
+    4300022: softcube.001
+    4300024: softcube 2
+    4300026: Hit Cube5
+    4300028: Sphere.004
+    4300030: Sphere.003
+    4300032: Hit Cube3
+    4300034: Sphere.002
+    4300036: Sphere.000
+    4300038: Sphere.001
+    4300040: Box_2
+    4300042: Box_3
+    4300044: Tile_1
+    4300046: Tile_2
+    4300048: Tile_3
+    7400000: Sphere.013|LMAction
+    7400002: Sphere.013|Sphere.012Action
+    7400004: Sphere.013|Sphere.012Action.001
+    7400006: Sphere.013|Time
+    7400008: Sphere.012|LMAction
+    7400010: Sphere.012|Sphere.012Action
+    7400012: Sphere.012|Sphere.012Action.001
+    7400014: Sphere.012|Time
+    7400016: Time Empty|LMAction
+    7400018: Time Empty|Sphere.012Action
+    7400020: Time Empty|Sphere.012Action.001
+    7400022: Time Empty|Time
+    7400024: LM.003|LMAction
+    7400026: LM.003|Sphere.012Action
+    7400028: LM.003|Sphere.012Action.001
+    7400030: LM.003|Time
+    9500000: //RootNode
+    10800000: Hemi
+    10800002: Hemi.003
+    10800004: Hemi.004
+    10800006: Hemi.005
+    10800008: Hemi.009
+    10800010: Point.002
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
