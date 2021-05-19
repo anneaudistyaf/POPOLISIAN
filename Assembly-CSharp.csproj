@@ -60,6 +60,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Desert Buildings-20210516T130852Z-001\Credit.cs" />
     <Compile Include="Assets\RCK 2.3\Scripts\CarSwitch.cs" />
     <Compile Include="Assets\RCK 2.3\Scripts\PoliceLights.cs" />
     <Compile Include="Assets\RCK 2.3\Scripts\VehicleCamera.cs" />
@@ -67,12 +68,21 @@
     <Compile Include="Assets\RCK 2.3\Scripts\VehicleDamage.cs" />
     <Compile Include="Assets\RCK 2.3\Skidmarks\Skidmarks Essentials\Skidmarks.cs" />
     <Compile Include="Assets\RCK 2.3\Skidmarks\WheelSkidmarks.cs" />
-    <Compile Include="Assets\Script\Credit.cs" />
+    <Compile Include="Assets\Script\ButtonProlog.cs" />
+    <Compile Include="Assets\Script\GameOver.cs" />
+    <Compile Include="Assets\Script\Hasil.cs" />
     <Compile Include="Assets\Script\HowToPlay.cs" />
     <Compile Include="Assets\Script\Information.cs" />
+    <Compile Include="Assets\Script\lampujalan.cs" />
+    <Compile Include="Assets\Script\LatihanTrigger.cs" />
     <Compile Include="Assets\Script\LevelMenu.cs" />
     <Compile Include="Assets\Script\MainMenu.cs" />
+    <Compile Include="Assets\Script\MenuLevel.cs" />
+    <Compile Include="Assets\Script\Pertanyaan1.cs" />
+    <Compile Include="Assets\Script\PilihLevel.cs" />
+    <Compile Include="Assets\Script\TimerCountDown.cs" />
     <None Include="Assets\RCK 2.3\Standard Assets\Projectors\Guidelines.txt" />
+    <None Include="Assets\Desert Buildings-20210516T130852Z-001\Desert Buildings\Read me.txt" />
     <None Include="Assets\RCK 2.3\Standard Assets\Projectors\Sources\Shaders\Projector Multiply.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
@@ -81,6 +91,7 @@
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
     <None Include="Assets\RCK 2.3\Skidmarks\Skidmarks Essentials\Skidmarks.shader" />
     <None Include="Assets\asset\package asset\EasyRoads3D\shaders\EasyRoads3D-Surface-Offset.shader" />
+    <None Include="Assets\POLYGON city pack\Read_me.txt" />
     <None Include="Assets\RCK 2.3\Standard Assets\Projectors\Sources\Shaders\Projector Light.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
@@ -127,6 +138,12 @@
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
       <HintPath>D:/POPOLISIAN/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+    </Reference>
+    <Reference Include="Editor">
+      <HintPath>D:/POPOLISIAN/Library/ScriptAssemblies/Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="XiaomiSupport">
+      <HintPath>D:/POPOLISIAN/Library/ScriptAssemblies/XiaomiSupport.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.32f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -334,6 +351,12 @@
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
       <HintPath>D:/POPOLISIAN/Library/PackageCache/com.unity.analytics@3.2.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="ChannelPurchase">
+      <HintPath>D:/POPOLISIAN/Library/PackageCache/com.unity.xiaomi@1.0.3/ChannelPurchase.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityStore">
+      <HintPath>D:/POPOLISIAN/Library/PackageCache/com.unity.xiaomi@1.0.3/UnityStore.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.32f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>

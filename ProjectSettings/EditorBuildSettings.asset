@@ -9,8 +9,14 @@ EditorBuildSettings:
     path: Assets/Scenes/START MENU.unity
     guid: efc2c635479ece540bf769fa5df41a14
   - enabled: 1
-    path: Assets/Scenes/Ingame.unity
-    guid: 2b14640d030e29a43ab1bc64df2df2b6
+    path: Assets/Scenes/StartLevel.unity
+    guid: 2333ce2c6b123ef489cfe83ac6e5a2ee
+  - enabled: 1
+    path: Assets/Scenes/VideoProlog.unity
+    guid: 9fa456e8d62d34cf7ab301eb52c99b65
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 6a5b2832e5bef744292b31389b2ba61c
   - enabled: 1
     path: Assets/Scenes/DETAIL LEVEL.unity
     guid: 5de747439caa0be41966a9069dfaa701
@@ -23,4 +29,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/INFORMATION.unity
     guid: 478ae988dfe3e9846b0795a54e73f946
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 7e9409cb5fcb9be44baba6f067746bcf
+  - enabled: 1
+    path: Assets/Scenes/HasilPermainan.unity
+    guid: 91187749e73618d4481c9fab7d5b6537
   m_configObjects: {}
